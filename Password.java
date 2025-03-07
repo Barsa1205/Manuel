@@ -29,7 +29,7 @@ public class Password {
 			contraseña+=abecedario.charAt(random.nextInt(abecedario.length()));
 		}
 	}
-	
+	//cambio
 	//getters
 	public String getContraseña() {
 		return contraseña;
