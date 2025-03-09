@@ -2,6 +2,8 @@ package ud6;
 
 import java.util.Random;
 
+//Comentario 1 09/03/2024
+
 public class Password {
 	//atr
 	private String contraseña;
