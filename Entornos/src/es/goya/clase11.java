@@ -9,7 +9,7 @@ public class clase11 {
         return "metodo2";
     }
     
-    public String metodoA() {
-        return "metodoA";
+    public String metodo3() {
+        return "metodo3";
     }
 }
