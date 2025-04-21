@@ -12,4 +12,8 @@ public class clase11 {
     public String metodoA() {
         return "metodoA";
     }
+
+    public String metodo3() {
+        return "metodo3";
+    }
 }
