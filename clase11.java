@@ -8,4 +8,8 @@ public class clase11 {
     public String metodo2() {
         return "metodo2";
     }
+
+    public String metodoA() {
+        return "metodoA";
+    }
 }
